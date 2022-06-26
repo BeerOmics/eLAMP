@@ -59,7 +59,9 @@ Both scripts ("eLAMP.pl" and "gui.pl") should be stored in the same folder or be
 **REQUIREMENTS**
 
 PERL interpreter (http://www.perl.org/)
+
 Tre library (http://laurikari.net/tre/)
+
 Perl/Tk module (http://search.cpan.org/~ni-s/Tk-804.027/)
 
 -----
