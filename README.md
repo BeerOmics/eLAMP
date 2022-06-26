@@ -1,4 +1,5 @@
-## eLAMP - Electronic LAMP: virtual Loop–mediated isothermal AMPlification
+# eLAMP 
+## Electronic LAMP: virtual Loop–mediated isothermal AMPlification
 
 **COMMAND LINE USAGE:**
 
