@@ -1,9 +1,10 @@
-# eLAMP
-Electronic LAMP: virtual Loop–mediated isothermal AMPlification
+# eLAMP - Electronic LAMP: virtual Loop–mediated isothermal AMPlification
 
-COMMAND LINE USAGE
+**COMMAND LINE USAGE
 
-eLAMP.pl -f in–file.fasta -p in–file.csv [-A ###] [-a ###] [-s ##] [-l ##] [-I #] [-M #] [-O #] [-i ###] [-m ###] [-o ###] [-r] [-c] 
+´´´
+eLAMP.pl -f in–file.fasta -p in–file.csv [-A ###] [-a ###] [-s ##] [-l ##] [-I #] [-M #] [-O #] [-i ###] [-m ###] [-o ###] [-r] [-c]
+´´´
 
 "in–file.fasta" contains template sequences in fasta format, and "in–file.csv" LAMP primers in a csv format. In the latter, each cell corresponds to a primer and each line to a primer set. Primer pairs are ordered from the innermost to the outermost. Within each primer pair, the forward (left) primer should be followed by the reverse (right). A heading line is optional. The alternative FIB/BIP primer format can be used, but linkers must be delimited by hyphens (e.g. "-TTTTT-"). 
 
