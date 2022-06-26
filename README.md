@@ -85,4 +85,4 @@ eLAMP.pl -f x.fst -p x.csv -A 300 -a 100 -s 1 -l 20 -r -I 3 -M 3 -O 3 -i 80 -m 8
 
 **Open Science Framework**
 
-DOI 10.17605/OSF.IO/WU3GA
+DOI: 10.17605/OSF.IO/WU3GA
