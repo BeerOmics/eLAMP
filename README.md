@@ -80,3 +80,9 @@ Example input and output files are included with the download.
 ```
 eLAMP.pl -f x.fst -p x.csv -A 300 -a 100 -s 1 -l 20 -r -I 3 -M 3 -O 3 -i 80 -m 80 -o 80 -c > x-out.csv
 ```
+
+----
+
+**Open Science Framework**
+
+DOI 10.17605/OSF.IO/WU3GA
