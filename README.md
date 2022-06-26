@@ -1,6 +1,6 @@
-# eLAMP - Electronic LAMP: virtual Loop–mediated isothermal AMPlification
+## eLAMP - Electronic LAMP: virtual Loop–mediated isothermal AMPlification
 
-**COMMAND LINE USAGE
+**COMMAND LINE USAGE**
 
 ´´´
 eLAMP.pl -f in–file.fasta -p in–file.csv [-A ###] [-a ###] [-s ##] [-l ##] [-I #] [-M #] [-O #] [-i ###] [-m ###] [-o ###] [-r] [-c]
