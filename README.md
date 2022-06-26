@@ -15,18 +15,31 @@ $> eLAMP.pl -f in–file.fasta -p in–file.csv [-A ###] [-a ###] [-s ##] [-l ##
 **OPTIONS**
 
 -f	is a fasta formated input file
+
 -p	is a comma separated value (.csv) file containing four or six primer sequences per line (first six columns; inner forward, inner reverse, middle forward, middle reverse, outer forward, outer reverse)
+
 -A	maximum amplicon size (bp; default = 280)
+
 -a	maximum interloop spacing (bp; default = 51)
+
 -s	minimum space between inner primers (bp; default = 1)
+
 -l	minimum space between inner and middle primers (bp; default = 25)
+
 -I	the number of exact matches at the 3' ends of the inner primer pair (1–3; default = 3)
+
 -M	the number of exact matches at the 3' ends of the middle primer pair (1–3; default = 3)
+
 -O	the number of exact matches at the 3' ends of the outer primer pair (1–3; default = 3)
+
 -i	percent of matching bases for the inner primer pair (excluding the 3' bases set with -I; default = 100)
+
 -m	percent of matching bases for the middle primer pair (excluding the 3' bases set with -M; default = 100)
+
 -o	percent of matching bases for the outer primer pair (excluding the 3' bases set with -O; default = 100)
+
 -r	activate "relaxed" mode, primer GC content is not checked
+
 -c	evaluate template sequences in both possible orientations
 
 ------
